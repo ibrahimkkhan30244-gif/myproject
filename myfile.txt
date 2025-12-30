@@ -1,1 +1,1 @@
-Hello This is my file[200~echo Hello, World! > myfile.txt
+Hello This is my file
